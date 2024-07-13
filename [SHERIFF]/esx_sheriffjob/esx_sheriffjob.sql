@@ -18,9 +18,9 @@ INSERT INTO `jobs` (name, label) VALUES
 
 INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_female) VALUES
 	('sheriff',0,'recruit','Recrue',20,'{}','{}'),
-	('sheriff',1,'officer','Deputy',40,'{}','{}'),
-	('sheriff',2,'sergeant','Major',60,'{}','{}'),
-	('sheriff',4,'lieutenant','Sheriff-Adjoint',85,'{}','{}'),
+	('sheriff',1,'officer','Officier',40,'{}','{}'),
+	('sheriff',2,'sergeant','Sergent',60,'{}','{}'),
+	('sheriff',4,'lieutenant','Lieutenant',85,'{}','{}'),
 	('sheriff',5,'boss','Sheriff',100,'{}','{}')
 ;
 
